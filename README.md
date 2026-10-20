@@ -15,11 +15,9 @@ The Authentication System provides secure user authentication and access control
 
 ### 🛠️ Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript / React.js
 - **Backend:** Node.js and Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Token)
-- **Password Hashing:** bcrypt
 
 *Note: Update the technology list according to the technologies actually implemented in your project.*
 
